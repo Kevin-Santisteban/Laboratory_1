@@ -1,3 +1,3 @@
 # Laboratory_1
 
-![alt text](https://postimg.cc/ppKTvdyJ)
+![alt text](https://i.postimg.cc/FsBJjd48/image.png)
