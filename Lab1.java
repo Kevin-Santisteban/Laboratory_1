@@ -8,10 +8,10 @@ public static void main(String[] args) {
 //------------------1------------------------------
 long[] d = {4,5,6,7,8,9,10,11,12,13,14,15,16,17,18};
 
-//System.out.println(d.length);
+
 
 //------------------2------------------------------
-double Min_Range = -0.4;
+double Min_Range = -4.0;
 double Max_Range = 12.0;
 
 double[] x = new double[17]; 
