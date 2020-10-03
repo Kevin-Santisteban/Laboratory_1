@@ -24,8 +24,8 @@ for (int k = 0; k < 17 ;k++) {
 double[][] DD = new double[15][17]; 
 int[] Temp_Array = {5,7,11,12,13,15,16};
 
-for (int i=0; i<14; i++) {
-	for (int j=0; j<16; j++) {
+for (int i=0; i<15; i++) {
+	for (int j=0; j<17; j++) {
 	if (d[i] ==14) {
 			DD[i][j] = Math.atan(0.25 * ( 1/(Math.pow(Math.E, Math.abs(x[j])))));	
 				System.out.printf("%.4f ",(float)DD[i][j]);
