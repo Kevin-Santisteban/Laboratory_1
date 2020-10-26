@@ -1,0 +1,11 @@
+How to make an executable jar file in Java
+The jar (Java Archive)   
+-v generates verbose output. It displays the included or extracted resource on the standard output.
+-m includes manifest information from the given mf file.
+-f specifies the archive file name
+-x extracts files from the archive file
+Now, let's write the code to generated the executable jar using mf file.
+
+You need to write jar then swiches then mf_file then jar_file then .classfile as given below:
+
+jar -cvmf myfile.mf myjar.jar First.class 
